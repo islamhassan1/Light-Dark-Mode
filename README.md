@@ -1,0 +1,5 @@
+Light Dark Mode
+This is a sample Light Dark Mode created using HTML , CSS , SIMPLE JS and using advanced CSS and advanced responsive design and also FLEXBOX AND GRID .
+
+![screenshot](https://github.com/islamhassan1/Light-Dark-Mode/blob/master/img/Screen%20Shot1.png)
+![screenshot](https://github.com/islamhassan1/Light-Dark-Mode/blob/master/img/Screen%20Shot2.png)
